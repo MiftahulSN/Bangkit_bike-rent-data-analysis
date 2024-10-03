@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 from PIL import Image
 
-bike_rent_image_path = '../properties/bikerent.png'
-bike_rent_image = Image.open(bike_rent_image_path)
+bike_rent = 'bikerent.png'
+bike_rent_image = Image.open(bike_rent)
 
 # Data Gathering
 
