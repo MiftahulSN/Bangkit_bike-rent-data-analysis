@@ -9,8 +9,8 @@ bike_rent_image = Image.open(bike_rent)
 
 # Data Gathering
 
-byHour_df = pd.read_csv(r'../dataset/hour.csv')
-byDay_df = pd.read_csv(r'../dataset/day.csv')
+byHour_df = pd.read_csv(r'dataset/hour.csv')
+byDay_df = pd.read_csv(r'dataset/day.csv')
 
 # Data Cleaning
 
