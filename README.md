@@ -11,6 +11,12 @@ cd proyek_analisis_data
 pipenv install  
 pipenv shell  
 pip install -r requirements.txt  
+
+## Activate Virtual Environment  
+analysis_data\Scripts\activate  
+
+## Deactivate Virtual Environment  
+analysis_data\Scripts\deactivate.bat  
   
 ## Run Streamlit App  
 cd dashboard  
