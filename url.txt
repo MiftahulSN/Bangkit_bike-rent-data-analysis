@@ -1,1 +1,5 @@
+github repo link :
+https://github.com/MiftahulSN/Bangkit_bike-rent-data-analysis/
+
+streamlit cloud link :
 https://mift-bangkit-bike-rent.streamlit.app/
