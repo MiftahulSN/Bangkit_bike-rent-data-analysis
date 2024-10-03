@@ -1,4 +1,4 @@
-# BANGKIT - Bike Rent Data Analysis 🇮🇩  
+# BANGKIT - Bike Rent Data Analysis 🌟  
 
 ## Setup Environment - Anaconda
 conda create --name main-ds python=3.9  
